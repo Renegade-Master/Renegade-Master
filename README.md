@@ -11,33 +11,21 @@ Computer Science (both hardware and software), and this is reflected in my work.
 
 ### Skills  
 
-*Languages:*  
+*Languages:*
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|  
-| **Proficient**    | Python 3 | Java 8 - 14 | C# | Kotlin | RegEx |  
-| **Familiar**      | C++ | C | JavaScript | TypeScript    
-| **Worked With**   | Motorola 68K |  
 
-&nbsp;  
-*IDEs:*  
+<p>
+    <script type="application/javascript" src="src/js/testscript.js"></script>
+    <link rel="stylesheet" type="text/css" href="src/css/style.css">
+    <table>
+        <tr>
+            <th>Proficient</th><th>Familiar</th><th>Worked With</th>
+        </tr>
+        <tr>
+            <td class="centred">Python</td>
+        </tr>
+    </table>
 
-|  |  |  |  |  |
-|---|---|---|---|---|  
-| **Proficient**    | IntelliJ | PyCharm | CLion | Visual Studio |    
-| **Familiar**      | NetBeans |  |  |  
-| **Worked With**   | Eclipse |  |  |  
-
-&nbsp;  
-*Tools:*  
-
-|  |  |  |  |  |
-|---|---|---|---|---|  
-| **Proficient**    | Git |  |  |  |    
-| **Familiar**      | BurpSuite |  |  |  
-| **Worked With**   |  |  |  |  
-
-&nbsp;  
 
 ---  
 
@@ -53,9 +41,9 @@ Computer Science (both hardware and software), and this is reflected in my work.
 
 ### Other
 
-| Badges |  |  
-|---|---|  
-|  | ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Renegade-Master&hide=["issues"]&show_icons=true) |  
-|  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renegade-Master) |  
+| Badges |  |  |  
+|---|---|---|  
+|  | ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Renegade-Master&hide=["issues"]&show_icons=true&&theme=dark&hide_border=true) | ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=LitThurles-K00221230&hide=["issues"]&show_icons=true&theme=prussian&hide_border=true) |  
+|  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renegade-Master&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LitThurles-K00221230&theme=prussian&hide_border=true) |  
 
 &nbsp;  
