@@ -1,6 +1,6 @@
 <!DOCTYPE html,markdown>
 <html lang="en">
-    <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js">console.log("This is a test")</script>
+    <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js"></script>
     <link rel="stylesheet" type="text/css" href="src/css/style.css">
     <body>
         <h2>Hello!</h2>

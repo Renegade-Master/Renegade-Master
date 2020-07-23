@@ -9,7 +9,7 @@ class Person {
 }
 
 function main() {
-    console.log(`If you are seeing this, then somehow the JavaScript has worked.\n`);
+    console.log(`If you are seeing this, then somehow the JavaScript has worked!  Hooray!(?).\n`);
 
     let p = new Person();
     let days = p.CountTime(Date.now()) / 86400000;
