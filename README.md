@@ -1,5 +1,5 @@
 <p>
-    <script type="application/javascript" src="src/js/testscript.js"></script>
+    <script type="application/javascript" src="src/js/such_a_shame_there_is_no.js"></script>
     <link rel="stylesheet" type="text/css" href="src/css/style.css">
 </p>
 
