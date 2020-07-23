@@ -21,17 +21,17 @@ Computer Science (both hardware and software), and this is reflected in my work.
             <b>Skills and Tools</b>
         </summary>
         <h5>Operating Systems:</h5>
-        <tb>
+        <table>
             <tr>
                 <td><img class="badge" src="https://img.shields.io/badge/-Windows-1e2229?style=plastic&logo=Windows" alt="Windows Logo"></td>
                 <td><img class="badge" src="https://img.shields.io/badge/-Linux-1e2229?style=plastic&logo=Linux" alt="Linux Logo"></td>
                 <td><img class="badge" src="https://img.shields.io/badge/-Mac_OS-1e2229?style=plastic&logo=Apple" alt="Apple Logo"></td>
                 <td><img class="badge" src="https://img.shields.io/badge/-Android-1e2229?style=plastic&logo=Android" alt="Android Logo"></td>
             </tr>
-        </tb>
+        </table>
         <br>
-        <h5>Programming Languages and Frameworks:</h5>        
-        <tb>
+        <h5>Programming Languages and Frameworks:</h5>
+        <table>
             <tr>
                 <td><b>Proficient</b></td>
                 <td><img class="badge" src="https://img.shields.io/badge/-Python-1e2229?style=plastic&logo=Python" alt="Python Logo"></td>
@@ -62,17 +62,17 @@ Computer Science (both hardware and software), and this is reflected in my work.
                 <td></td>
                 <td></td>
             </tr>
-        </tb>
+        </table>
         <br>
         <h5>IDEs</h5>
-        <tb>
+        <table>
             <tr>
                 <td><img class="badge" src="https://img.shields.io/badge/-IntelliJ_IDEA-1e2229?style=plastic&logo=IntelliJ IDEA" alt="IntelliJ IDEA Logo"></td>
                 <td><img class="badge" src="https://img.shields.io/badge/-Visual_Studio-1e2229?style=plastic&logo=Visual Studio" alt="Visual Studio Logo"></td>
                 <td><img class="badge" src="https://img.shields.io/badge/-Visual_Studio_Code-1e2229?style=plastic&logo=Visual Studio Code" alt="Visual Studio Code Logo"></td>
                 <td><img class="badge" src="https://img.shields.io/badge/-VIM-1e2229?style=plastic&logo=VIM" alt="VIM"></td>
             </tr>
-        </tb>
+        </table>
     </details>
 </p>
 
@@ -83,7 +83,7 @@ Computer Science (both hardware and software), and this is reflected in my work.
         <summary>
             <b>Stats</b>
         </summary>
-        <tb>
+        <table>
             <tr>
                 <th>Personal Account</th><th>University Account</th>
             </tr>
@@ -103,6 +103,6 @@ Computer Science (both hardware and software), and this is reflected in my work.
                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LitThurles-K00221230&theme=prussian&hide_border=true" alt="">
                 </td>
             </tr>
-        </tb>
+        </table>
     </details>
 </p>
