@@ -18,7 +18,7 @@ Computer Science (both hardware and software), and this is reflected in my work.
 <p>
     <details>
         <summary>
-            <h3>Skills and Tools</h3>
+            <b>Skills and Tools</b>
         </summary>
         <h5>Operating Systems:</h5>
         <tb>
@@ -81,7 +81,7 @@ Computer Science (both hardware and software), and this is reflected in my work.
 <p>
     <details>
         <summary>
-            <h3>Stats</h3>
+            <b>Stats</b>
         </summary>
         <tb>
             <tr>
