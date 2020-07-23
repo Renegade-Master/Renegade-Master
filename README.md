@@ -9,9 +9,10 @@ I'm a Software Developer who recently completed a Level 8 BSc in 'Games Design &
 Having completed this course, I now intend to pursue Software/Game Development as a career.  I am very interested in  
 Computer Science (both hardware and software), and this is reflected in my work.  
 
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Renegade-Master/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ciaran-bent/)
-[![ProtonMail](https://img.shields.io/badge/-ProtonMail-1e2229?style=flat&logo=Protonmail&logoColor=white)](mailto:ciaran.bent@protonmail.ch)    
+[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)](https://github.com/Renegade-Master/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ciaran-bent/)
+[![ProtonMail](https://img.shields.io/badge/-ProtonMail-252831?style=flat&logo=Protonmail&logoColor=white)](mailto:ciaran.bent@protonmail.ch)
+[![LinkedIn](https://img.shields.io/badge/-Twitter-3E98EC?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/RenegadeMMXV)    
 
 ---  
 
