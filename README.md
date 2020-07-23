@@ -44,7 +44,7 @@ Computer Science (both hardware and software), and this is reflected in my work.
             </tr>
             <tr>
                 <td><b>Familiar</b></td>
-                <td><img class="badge" src="https://img.shields.io/badge/-AWS-1e2229?style=plastic&logo=amazon aws" alt="Amazon AWS Logo"></td>
+                <td><img class="badge" src="https://img.shields.io/badge/-AWS-1e2229?style=plastic&logo=amazon-aws" alt="Amazon AWS Logo"></td>
                 <td><img class="badge" src="https://img.shields.io/badge/-JavaScript-1e2229?style=plastic&logo=JavaScript" alt="JavaScript Logo"></td>
                 <td><img class="badge" src="https://img.shields.io/badge/-TypeScript-1e2229?style=plastic&logo=TypeScript" alt="TypeScript Logo"></td>
                 <td><img class="badge" src="https://img.shields.io/badge/-React-1e2229?style=plastic&logo=React" alt="React Logo"></td>
@@ -67,9 +67,9 @@ Computer Science (both hardware and software), and this is reflected in my work.
         <h5>IDEs</h5>
         <table>
             <tr>
-                <td><img class="badge" src="https://img.shields.io/badge/-IntelliJ_IDEA-1e2229?style=plastic&logo=IntelliJ IDEA" alt="IntelliJ IDEA Logo"></td>
-                <td><img class="badge" src="https://img.shields.io/badge/-Visual_Studio-1e2229?style=plastic&logo=Visual Studio" alt="Visual Studio Logo"></td>
-                <td><img class="badge" src="https://img.shields.io/badge/-Visual_Studio_Code-1e2229?style=plastic&logo=Visual Studio Code" alt="Visual Studio Code Logo"></td>
+                <td><img class="badge" src="https://img.shields.io/badge/-IntelliJ_IDEA-1e2229?style=plastic&logo=IntelliJ-IDEA" alt="IntelliJ IDEA Logo"></td>
+                <td><img class="badge" src="https://img.shields.io/badge/-Visual_Studio-1e2229?style=plastic&logo=Visual-Studio" alt="Visual Studio Logo"></td>
+                <td><img class="badge" src="https://img.shields.io/badge/-Visual_Studio_Code-1e2229?style=plastic&logo=Visual-Studio-Code" alt="Visual Studio Code Logo"></td>
                 <td><img class="badge" src="https://img.shields.io/badge/-VIM-1e2229?style=plastic&logo=VIM" alt="VIM"></td>
             </tr>
         </table>
