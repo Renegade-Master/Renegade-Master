@@ -1,9 +1,7 @@
+<!DOCTYPE html,markdown>
 <html lang="en">
-    <head>
-        <title>Renegade-Master @ GitHub</title>
-        <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js">console.log("This is a test")</script>
-        <link rel="stylesheet" type="text/css" href="src/css/style.css">
-    </head>
+    <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js">console.log("This is a test")</script>
+    <link rel="stylesheet" type="text/css" href="src/css/style.css">
     <body>
         <h2>Hello!</h2>
         <p>
