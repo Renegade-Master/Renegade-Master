@@ -100,10 +100,10 @@
                     </tr>
                     <tr>
                         <td>
-                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renegade-Master&theme=dark&hide_border=true" alt="">
+                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renegade-Master&theme=dark&hide_border=true&hide=rich text format" alt="">
                         </td>
                         <td>
-                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LitThurles-K00221230&theme=prussian&hide_border=true" alt="">
+                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LitThurles-K00221230&theme=prussian&hide_border=true&hide=rich text format" alt="">
                         </td>
                     </tr>
                 </table>
