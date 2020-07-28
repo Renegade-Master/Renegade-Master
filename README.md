@@ -3,7 +3,7 @@
     <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js"></script>
     <link rel="stylesheet" type="text/css" href="src/css/style.css">
     <body>
-        <h2>Hello!</h2>
+        <h2>Hello there!</h2>
         <p>
             I'm a recently graduated Software Developer from a Level 8 BSc in 'Games Design & Development'.  
             Having completed this course, I now intend to pursue Software/Game Development as a career.  I am very
@@ -54,7 +54,6 @@
                         <td><img class="badge" src="https://img.shields.io/badge/-SFML-1e2229?style=plastic&logo=SFML" alt="SFML Logo"><a href="https://www.sfml-dev.org/"></a></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-HTML_5-1e2229?style=plastic&logo=HTML5" alt="HTML5 Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-CSS_3-1e2229?style=plastic&logo=CSS3" alt="CSS3 Logo"></td>
-                        <td></td>
                     </tr>
                     <tr>
                         <td><b>Worked With</b></td>
