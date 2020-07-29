@@ -2,6 +2,16 @@
 <html lang="en">
     <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js"></script>
     <link rel="stylesheet" type="text/css" href="src/css/style.css">
+    <style>
+        table {
+            text-align: center;
+            border-style: none;
+        }
+        .badge {
+            width: 100px;
+            height: 20px;
+        }
+    </style>
     <body>
         <h2>Hello there!</h2>
         <p>
