@@ -1,8 +1,8 @@
-<!DOCTYPE html,markdown>
+<!DOCTYPE html>
 <html lang="en">
     <head>
-        <title></title>
-        <meta charset="UTF-8" content="text/markdown, text/html, text/markdown">
+        <title>Renegade-Master's GitHub</title>
+        <meta charset="UTF-8" content="text/markdown, text/html, text/javascript, text/markdown">
         <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js"></script>
         <link rel="stylesheet" type="text/css" href="src/css/style.css">
         <style>
