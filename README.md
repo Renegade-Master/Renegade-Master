@@ -1,24 +1,28 @@
 <!DOCTYPE html,markdown>
 <html lang="en">
-    <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js"></script>
-    <link rel="stylesheet" type="text/css" href="src/css/style.css">
-    <style>
-        table {
-            text-align: center;
-            border-style: none;
-        }
-        .badge {
-            width: 100px;
-            height: 20px;
-        }
-    </style>
+    <head>
+        <title></title>
+        <meta charset="UTF-8" content="text/markdown, text/html, text/markdown">
+        <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js"></script>
+        <link rel="stylesheet" type="text/css" href="src/css/style.css">
+        <style>
+            table {
+                text-align: center;
+                border-style: none;
+            }
+            .badge {
+                width: 100px;
+                height: 20px;
+            }
+        </style>
+    </head>
     <body>
         <h2>Hello there!</h2>
         <p>
-            I'm a recently graduated Software Developer from a Level 8 BSc in 'Games Design & Development'.  
+            I'm a recently graduated Software Developer from a Level 8 BSc in 'Games Design & Development'.
             Having completed this course, I now intend to pursue Software/Game Development as a career.  I am very
-            interested in Computer Science (both hardware and software), and this is reflected in my work.  
-        </p>    
+            interested in Computer Science (both hardware and software), and this is reflected in my work.
+        </p>
         <table>
             <tr>
                 <td><a href="https://github.com/Renegade-Master/"><img class="badge" src="https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white" alt="Windows Logo"></a></td>
@@ -28,7 +32,7 @@
             </tr>
         </table>
         <hr>
-        <p>
+        <div>
             <details>
                 <summary>
                     <b>Skills and Tools</b>
@@ -88,9 +92,9 @@
                     </tr>
                 </table>
             </details>
-        </p>
+        </div>
         <hr>
-        <p>
+        <div>
             <details>
                 <summary>
                     <b>Stats</b>
@@ -117,6 +121,6 @@
                     </tr>
                 </table>
             </details>
-        </p>
+        </div>
     </body>
 </html>
