@@ -3,9 +3,9 @@
     <head>
         <!-- <title>Renegade-Master's GitHub</title> -->
         <meta charset="UTF-8" content="text/markdown, text/html, text/javascript, text/markdown">
-        <!-- <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js"></script> -->
+        <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js"></script>
         <link rel="stylesheet" type="text/css" href="src/css/style.css">
-        <!-- <style>
+        <style>
             table {
                 text-align: center;
                 border-style: none;
@@ -14,14 +14,14 @@
                 width: 100px;
                 height: 20px;
             }
-        </style> -->
+        </style>
     </head>
     <body>
-        <h2>Hello there!</h2>
+        <h2>Hello!</h2>
         <p>
-            I'm a recently graduated Software Developer from a Level 8 BSc in 'Games Design & Development'.
-            Having completed this course, I now intend to pursue Software/Game Development as a career.  I am very
-            interested in Computer Science (both hardware and software), and this is reflected in my work.
+            I am a recently graduated Software Developer from a Level 8 BSc in 'Games Design & Development'.  <br>
+            Having completed this course, I am now using what I have learned working for various companies to continue to improve my skillset, with the intention to pursue Software/Game Development as a career.  <br>
+            I am very interested in Computer Science (both hardware and software), and will often go out of my way to pick up new technologies and frameworks that I have not encountered before, just to see how they work.
         </p>
         <table>
             <tr>
@@ -51,6 +51,7 @@
                 <table>
                     <tr>
                         <td><b>Proficient</b></td>
+                        <td><img class="badge" src="https://img.shields.io/badge/-Docker-1e2229?style=plastic&logo=Docker" alt="Docker Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-Python-1e2229?style=plastic&logo=Python" alt="Python Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-Java-1e2229?style=plastic&logo=Java" alt="Java Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-Kotlin-1e2229?style=plastic&logo=Kotlin" alt="Kotlin Logo"></td>
@@ -61,6 +62,7 @@
                     </tr>
                     <tr>
                         <td><b>Familiar</b></td>
+                        <td><img class="badge" src="https://img.shields.io/badge/-Kubernetes-1e2229?style=plastic&logo=kubernetes" alt="Kubernetes Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-AWS-1e2229?style=plastic&logo=amazon-aws" alt="Amazon AWS Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-JavaScript-1e2229?style=plastic&logo=JavaScript" alt="JavaScript Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-TypeScript-1e2229?style=plastic&logo=TypeScript" alt="TypeScript Logo"></td>
@@ -78,17 +80,7 @@
                         <td></td>
                         <td></td>
                         <td></td>
-                    </tr>
-                </table>
-                <br>
-                <h5>IDEs</h5>
-                <table>
-                    <tr>
-                        <td><img class="badge" src="https://img.shields.io/badge/-IntelliJ_IDEA-1e2229?style=plastic&logo=IntelliJ-IDEA" alt="IntelliJ IDEA Logo"></td>
-                        <td><img class="badge" src="https://img.shields.io/badge/-Visual_Studio-1e2229?style=plastic&logo=Visual-Studio" alt="Visual Studio Logo"></td>
-                        <td><img class="badge" src="https://img.shields.io/badge/-Visual_Studio_Code-1e2229?style=plastic&logo=Visual-Studio-Code" alt="Visual Studio Code Logo"></td>
-                        <td><img class="badge" src="https://img.shields.io/badge/-VIM-1e2229?style=plastic&logo=VIM" alt="VIM"></td>
-                        <td><img class="badge" src="https://img.shields.io/badge/-Unity-1e2229?style=plastic&logo=Unity" alt="Unity"></td>
+                        <td></td>
                     </tr>
                 </table>
             </details>
