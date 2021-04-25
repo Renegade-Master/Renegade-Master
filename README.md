@@ -3,9 +3,9 @@
     <head>
         <!-- <title>Renegade-Master's GitHub</title> -->
         <meta charset="UTF-8" content="text/markdown, text/html, text/javascript, text/markdown">
-        <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js"></script>
+        <!-- <script type="text/javascript" src="src/js/such_a_shame_there_is_no.js"></script> -->
         <link rel="stylesheet" type="text/css" href="src/css/style.css">
-        <style>
+        <!-- <style>
             table {
                 text-align: center;
                 border-style: none;
@@ -14,7 +14,7 @@
                 width: 100px;
                 height: 20px;
             }
-        </style>
+        </style> -->
     </head>
     <body>
         <h2>Hello!</h2>
