@@ -1,1 +1,8 @@
+#remote_theme: pages-themes/midnight@v0.2.0
 theme: jekyll-theme-midnight
+
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: "Renegade-Master Homepage"
+description: ""
