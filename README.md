@@ -26,9 +26,6 @@
         <table>
             <tr>
                 <td><a href="https://github.com/Renegade-Master/"><img class="badge" src="https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white" alt="Windows Logo"></a></td>
-                <td><a href="https://www.linkedin.com/in/ciaran-bent/"><img class="badge" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Windows Logo"></a></td>
-                <td><a href="mailto:ciaran.bent@protonmail.ch"><img class="badge" src="https://img.shields.io/badge/-ProtonMail-252831?style=flat&logo=Protonmail&logoColor=white" alt="Windows Logo"></a></td>
-                <td><a href="https://twitter.com/RenegadeMMXV"><img class="badge" src="https://img.shields.io/badge/-Twitter-3E98EC?style=flat&logo=Twitter&logoColor=white" alt="Windows Logo"></a></td>
             </tr>
         </table>
         <hr>
