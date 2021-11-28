@@ -91,22 +91,16 @@
                 </summary>
                 <table>
                     <tr>
-                        <th>Personal Account</th><th>University Account</th>
+                        <th>Personal Account</th>
                     </tr>
                     <tr>
                         <td>
                             <img src="https://github-readme-stats.vercel.app/api?username=Renegade-Master&show_icons=true&&theme=dark&hide_border=true" alt="">
                         </td>
-                        <td>
-                            <img src="https://github-readme-stats.vercel.app/api?username=LitThurles-K00221230&theme=prussian&show_icons=true&&theme=dark&hide_border=true" alt="">
-                        </td>
                     </tr>
                     <tr>
                         <td>
-                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renegade-Master&theme=dark&hide_border=true&hide=rich text format" alt="">
-                        </td>
-                        <td>
-                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LitThurles-K00221230&theme=prussian&hide_border=true&hide=rich text format" alt="">
+                            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renegade-Master&theme=dark&hide_border=true&langs_count=7&exclude_repo=GDDXA-CA-Unity-RandomGeneration-HDRP,GDDXA-CA-Unity_Cross_Platform_Game&hide=rich text format" alt="">
                         </td>
                     </tr>
                 </table>
