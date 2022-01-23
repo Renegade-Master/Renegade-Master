@@ -25,7 +25,7 @@
         </p>
         <table>
             <tr>
-                <td><a href="https://renegade-master.github.io/Renegade-Master/"><img class="badge" src="https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Frenegade-master.github.io%2FRenegade-Master%2F" alt="Website Status"></a></td>
+                <td><a href="https://renegade-master.github.io/"><img class="badge" src="https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Frenegade-master.github.io%2F" alt="Website Status"></a></td>
                 <td><a href="https://github.com/Renegade-Master/"><img class="badge" src="https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white" alt="GitHub Logo"></a></td>
             </tr>
         </table>
