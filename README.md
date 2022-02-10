@@ -25,7 +25,7 @@
         </p>
         <table>
             <tr>
-                <td><a href="https://renegade-master.github.io/Renegade-Master/"><img class="badge" src="https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Frenegade-master.github.io%2FRenegade-Master%2F" alt="Website Status"></a></td>
+                <td><a href="https://renegade-master.github.io/"><img class="badge" src="https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Frenegade-master.github.io%2F" alt="Website Status"></a></td>
                 <td><a href="https://github.com/Renegade-Master/"><img class="badge" src="https://img.shields.io/badge/-Github-1a1d22?style=flat&logo=Github&logoColor=white" alt="GitHub Logo"></a></td>
                 <td><a href="https://hub.docker.com/u/renegademaster/"><img class="badge" src="https://img.shields.io/badge/-DockerHub-2496ed?style=flat&logo=Docker&logoColor=white" alt="DockerHub Logo"></a></td>
                 <td><a href="https://www.linkedin.com/in/ciaran-bent/"><img class="badge" src="https://img.shields.io/badge/-LinkedIn-0178b1?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Logo"></a></td>
