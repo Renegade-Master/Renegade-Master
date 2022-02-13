@@ -99,6 +99,7 @@
                         <td><b>Familiar</b></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-AWS-1f2430?style=plastic&logo=amazon-aws" alt="Amazon AWS Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-CSS_3-1f2430?style=plastic&logo=CSS3" alt="CSS3 Logo"></td>
+                        <td><img class="badge" src="https://img.shields.io/badge/-Go-1f2430?style=plastic&logo=Go" alt="Go Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-Helm-1f2430?style=plastic&logo=kubernetes" alt="Helm Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-HTML_5-1f2430?style=plastic&logo=HTML5" alt="HTML5 Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-Kubernetes-1f2430?style=plastic&logo=kubernetes" alt="Kubernetes Logo"></td>
