@@ -105,7 +105,6 @@
                         <td><img class="badge" src="https://img.shields.io/badge/-Kubernetes-1f2430?style=plastic&logo=kubernetes" alt="Kubernetes Logo"></td>
                         <td><img class="badge" src="https://img.shields.io/badge/-SFML-1f2430?style=plastic&logo=SFML" alt="SFML Logo"><a href="https://www.sfml-dev.org/"></a></td>
                         <td></td>
-                        <td></td>
                     </tr>
                     <tr>
                         <td><b>Worked With</b></td>
