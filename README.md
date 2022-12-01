@@ -43,26 +43,26 @@
                 <table>
                     <tr>
                         <td>
-                            <a href="https://github.com/Renegade-Master/steamcmd-dedicated-server-template"><img class="badge" src="https://github-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=steamcmd-dedicated-server-template&theme=ayu-mirage" alt="SteamCMD Template"></a>
+                            <a href="https://github.com/Renegade-Master/steamcmd-dedicated-server-template"><img class="badge" src="https://renegade-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=steamcmd-dedicated-server-template&theme=ayu-mirage" alt="SteamCMD Template"></a>
                         </td>
                         <td>
-                            <a href="https://github.com/Renegade-Master/steamcmd-minimal"><img class="badge" src="https://github-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=steamcmd-minimal&theme=ayu-mirage" alt="SteamCMD Minimal"></a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a href="https://github.com/Renegade-Master/zomboid-dedicated-server"><img class="badge" src="https://github-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=zomboid-dedicated-server&theme=ayu-mirage" alt="SteamCMD Template"></a>
-                        </td>
-                        <td>
-                            <a href="https://github.com/Renegade-Master/satisfactory-dedicated-server"><img class="badge" src="https://github-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=satisfactory-dedicated-server&theme=ayu-mirage" alt="SteamCMD Minimal"></a>
+                            <a href="https://github.com/Renegade-Master/steamcmd-minimal"><img class="badge" src="https://renegade-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=steamcmd-minimal&theme=ayu-mirage" alt="SteamCMD Minimal"></a>
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            <a href="https://github.com/Renegade-Master/7_days_to_die-dedicated-server"><img class="badge" src="https://github-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=7_days_to_die-dedicated-server&theme=ayu-mirage" alt="SteamCMD Template"></a>
+                            <a href="https://github.com/Renegade-Master/zomboid-dedicated-server"><img class="badge" src="https://renegade-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=zomboid-dedicated-server&theme=ayu-mirage" alt="SteamCMD Template"></a>
                         </td>
                         <td>
-                            <a href="https://github.com/Renegade-Master/ark-se-dedicated-server"><img class="badge" src="https://github-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=ark-se-dedicated-server&theme=ayu-mirage" alt="SteamCMD Minimal"></a>
+                            <a href="https://github.com/Renegade-Master/satisfactory-dedicated-server"><img class="badge" src="https://renegade-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=satisfactory-dedicated-server&theme=ayu-mirage" alt="SteamCMD Minimal"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://github.com/Renegade-Master/7_days_to_die-dedicated-server"><img class="badge" src="https://renegade-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=7_days_to_die-dedicated-server&theme=ayu-mirage" alt="SteamCMD Template"></a>
+                        </td>
+                        <td>
+                            <a href="https://github.com/Renegade-Master/ark-se-dedicated-server"><img class="badge" src="https://renegade-readme-stats.vercel.app/api/pin/?username=Renegade-Master&repo=ark-se-dedicated-server&theme=ayu-mirage" alt="SteamCMD Minimal"></a>
                         </td>
                     </tr>
                 </table>
@@ -128,10 +128,10 @@
             <table>
                 <tr>
                     <td>
-                        <img src="https://github-readme-stats.vercel.app/api?username=Renegade-Master&show_icons=true&include_all_commits=true&hide_border=true&theme=ayu-mirage" alt="GitHub Stats">
+                        <img src="https://renegade-readme-stats.vercel.app/api?username=Renegade-Master&show_icons=true&include_all_commits=true&hide_border=true&theme=ayu-mirage" alt="GitHub Stats">
                     </td>
                     <td>
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renegade-Master&layout=compact&hide_border=true&langs_count=8&exclude_repo=GDDXA-CA-Unity-RandomGeneration-HDRP,GDDXA-CA-Unity_Cross_Platform_Game,GDDXA-CA-Modified_Existing_SFML_Game&hide=rich text format,processing&theme=ayu-mirage" alt="Most Used Languages">
+                        <img src="https://renegade-readme-stats.vercel.app/api/top-langs?username=Renegade-Master&layout=compact&hide_border=true&langs_count=8&exclude_repo=GDDXA-CA-Unity-RandomGeneration-HDRP,GDDXA-CA-Unity_Cross_Platform_Game,GDDXA-CA-Modified_Existing_SFML_Game&hide=rich text format,processing&theme=ayu-mirage" alt="Most Used Languages">
                     </td>
                 </tr>
             </table>
