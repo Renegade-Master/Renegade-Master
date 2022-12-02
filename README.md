@@ -131,7 +131,7 @@
                         <img src="https://renegade-readme-stats.vercel.app/api?username=Renegade-Master&show_icons=true&include_all_commits=true&hide_border=true&theme=ayu-mirage" alt="GitHub Stats">
                     </td>
                     <td>
-                        <img src="https://renegade-readme-stats.vercel.app/api/top-langs?username=Renegade-Master&layout=compact&hide_border=true&langs_count=8&exclude_repo=GDDXA-CA-Unity-RandomGeneration-HDRP,GDDXA-CA-Unity_Cross_Platform_Game,GDDXA-CA-Modified_Existing_SFML_Game&hide=rich%20text%20format,processing&theme=ayu-mirage" alt="Most Used Languages">
+                        <img src="https://renegade-readme-stats.vercel.app/api/top-langs?username=Renegade-Master&layout=compact&hide_border=true&langs_count=8&exclude_repo=GDDXA-CA-Unity-RandomGeneration-HDRP,GDDXA-CA-Unity_Cross_Platform_Game,GDDXA-CA-Modified_Existing_SFML_Game,UETut_CppBattColl,UETutDetectiveOffice,ue_tower_defense,&hide=rich%20text%20format,processing&theme=ayu-mirage" alt="Most Used Languages">
                     </td>
                 </tr>
             </table>
