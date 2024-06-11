@@ -19,9 +19,9 @@
     <body>
         <h2>Hello!</h2>
         <p>
-            I am a Software Developer with several years professional experience working with front-end, back-end, and more recently, Cloud based technologies.<br>
+            I am a Senior Software Developer with 5+ years professional experience working with front-end, back-end, and more recently, Cloud-based (microservice) technologies.<br>
             My skill set is always growing as well as expanding upon the things that I have already learned.<br>
-            I am very interested in Computing Science (both hardware and software), and will often go out of my way to pick up new technologies and frameworks that I have not encountered before, just to see how they work.
+            I am very interested in Computing Science (both hardware and software), and will often go out of my way to pick up new technologies and frameworks that I have not encountered before just to see how they work.
         </p>
         <table>
             <tr>
